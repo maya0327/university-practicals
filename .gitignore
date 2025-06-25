@@ -1,0 +1,15 @@
+*.exe
+*.o
+*.out
+*.log
+*.class
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+__pycache__/
+
+
+
+
+Add .gitignore to exclude temporary and system files
